@@ -1,0 +1,4 @@
+repository "Awesome-platformer-fforo@faoe2003@cloud"
+  path "/"
+    br "/main"
+    co "/main"

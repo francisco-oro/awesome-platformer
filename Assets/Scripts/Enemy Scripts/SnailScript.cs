@@ -23,7 +23,7 @@ public class SnailScript : MonoBehaviour
     {
         myBody = GetComponent<Rigidbody2D>();
         anim = GetComponent<Animator>();
-        
+
         left_Collision_Pos = left_Collision.position;
         right_Collision_Pos = right_Collision.position;
     }

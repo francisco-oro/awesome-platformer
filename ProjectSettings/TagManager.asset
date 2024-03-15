@@ -6,7 +6,6 @@ TagManager:
   tags:
   - Ground
   - Beetle
-  - Bullet
   layers:
   - Default
   - TransparentFX
